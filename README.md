@@ -1,0 +1,2 @@
+# Automated-Defect-Recognition-System-for-Ordnance-Factory-Itarsi
+The Automated Defect Recognition (ADR) System is designed for the Ordnance Factory Itarsi (OFI), Madhya Pradesh, to process and analyze X-ray DICOM (.dcm) images of ammunition components. This system enhances defect detection by converting DICOM files into human-visible digital images through high-pass filtering and Fourier transform techniques.

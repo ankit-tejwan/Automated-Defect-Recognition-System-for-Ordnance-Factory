@@ -1,5 +1,5 @@
 ---
-# **Automated Defect Recognition (ADR) System for Ordnance Factory Itarsi**  
+# **Automated Defect Recognition (ADR) System for Ordnance Factory**  
 
 ## **Project Overview**  
 The **Automated Defect Recognition (ADR) System** is designed for the **Ordnance Factory Itarsi (OFI), Madhya Pradesh**,
